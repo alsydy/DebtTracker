@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفتر الديون</string>
+    <string name="add_debt">إضافة دين</string>
+    <string name="debt_list">قائمة الديون</string>
+    <string name="person_name">اسم الشخص</string>
+    <string name="amount">المبلغ</string>
+    <string name="description">الوصف</string>
+    <string name="date">التاريخ</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="debt_type">نوع الدين</string>
+    <string name="owed_to_me">مدين لي</string>
+    <string name="i_owe">أدين له</string>
+    <string name="total_owed_to_me">إجمالي المدين لي</string>
+    <string name="total_i_owe">إجمالي ما أدين به</string>
+    <string name="paid">مدفوع</string>
+    <string name="unpaid">غير مدفوع</string>
+    <string name="mark_as_paid">تحديد كمدفوع</string>
+    <string name="mark_as_unpaid">تحديد كغير مدفوع</string>
+</resources>
+
